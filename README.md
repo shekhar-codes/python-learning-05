@@ -45,7 +45,11 @@ This repo covers some of the most powerful and essential concepts in Python:
 ## 🎯 Learning Goals
 
 - Write reusable, modular, and clean code using functions  
-- Understand the principles of object-oriented programming  
+- Understand the principles of object-oriented programming
+
+- ✍️ Author
+Made with ❤️ by [shekhar]
+Exploring deeper layers of Python with every repo.
 - Learn to handle data through file operations  
 - Make your code robust by handling runtime errors gracefully  
 
